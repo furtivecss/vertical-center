@@ -1,0 +1,28 @@
+{
+  "name": "furtive-vertical-center",
+  "version": "0.0.1",
+  "description": "A CSS module for vertically centering elements using flex.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furtivecss/vertical-center.git"
+  },
+  "keywords": [
+    "flex",
+    "vertical-center",
+    "vertical",
+    "centering",
+    "css",
+    "furtive",
+    "rework"
+  ],
+  "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furtivecss/vertical-center/issues"
+  },
+  "homepage": "https://github.com/furtivecss/vertical-center"
+}

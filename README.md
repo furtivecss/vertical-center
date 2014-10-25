@@ -7,14 +7,14 @@ A CSS module for vertically centering elements using `display: flex;`. Used in [
 It's recommended to use [rework-npm](https://github.com/reworkcss/rework-npm):
 
 ```
-npm install --save furtive-vertical-align
+npm install --save furtive-vertical-center
 ```
 
 ```javascript
 var rework = require('rework'),
     reworkNPM = require('rework-npm');
 
-var output = rework('@import "furtive-vertical-align";', { source: 'my-file.css' })
+var output = rework('@import "furtive-vertical-center";', { source: 'my-file.css' })
     .use(reworkNPM());
 ```
 
