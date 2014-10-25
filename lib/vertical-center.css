@@ -1,0 +1,13 @@
+.vrt-cntr {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.vrt-cntr-item--top {
+  align-self: flex-start;
+}
+
+.vrt-cntr-item--bottom {
+  align-self: flex-end;
+}
